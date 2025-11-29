@@ -5,7 +5,7 @@ The bot reduces response time, improves accuracy, and provides instant answers s
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project was developed during my internship to automate repetitive support tasks and improve operational efficiency.
 
@@ -17,7 +17,7 @@ This project was developed during my internship to automate repetitive support t
 
 ---
 
-## 🧠 Architecture Overview
+##  Architecture Overview
 
 The system uses AWS-managed AI + serverless components:
 
@@ -53,27 +53,27 @@ Confluence Knowledge Base
 
 ---
 
-## ⚙️ Features
+##  Features
 
-### 🤖 **AI-Powered Query Handling**
+###  **AI-Powered Query Handling**
 - Bot understands user queries using AWS Q  
 - Searches Confluence pages automatically  
 - Returns accurate troubleshooting steps  
 
-### 📦 **Order Tracking**
+###  **Order Tracking**
 - Reads order data from S3  
 - Returns order status instantly  
 
-### 🔧 **Issue Resolution**
+###  **Issue Resolution**
 - Provides solutions for frequently occurring tech/operations issues  
 
-### 💬 **MS Teams Interface**
+###  **MS Teams Interface**
 - Complete chatbot experience  
 - Instant responses with zero human intervention  
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > Add your screenshots inside a `screenshots/` folder in the repo and update the image names below.
 
@@ -105,7 +105,7 @@ AI-issue-resolution-Bot/
 
 ---
 
-## 🧩 Sample Lambda Code (for demonstration)
+##  Sample Lambda Code (for demonstration)
 
 ```python
 import json
@@ -140,15 +140,15 @@ def lambda_handler(event, context):
 
 📊 Results & Impact
 
-⚡ Significantly reduced issue response time
+ Significantly reduced issue response time
 
-🧠 Automated solutions for repeated problems
+ Automated solutions for repeated problems
 
-📉 Reduced manual workload of support teams
+ Reduced manual workload of support teams
 
-📈 Improved accuracy & consistency in responses
+ Improved accuracy & consistency in responses
 
-💬 Easy accessibility through MS Teams
+ Easy accessibility through MS Teams
 
 
 👩‍💻 My Contribution
