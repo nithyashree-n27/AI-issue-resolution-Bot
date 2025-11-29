@@ -73,35 +73,18 @@ Confluence Knowledge Base
 
 ---
 
-##  Screenshots
-
-> Add your screenshots inside a `screenshots/` folder in the repo and update the image names below.
-
-### **Architecture**
-![Architecture Diagram](architecture/architecture.png)
-
-### **Bot in MS Teams**
-![Bot UI Sample](screenshots/bot-ui.png)
-
-### **Order Tracking Response**
-![Order Tracking](screenshots/order-tracking.png)
-
----
-
 ## 📁 Project Structure
 
 AI-issue-resolution-Bot/
 │
 ├── README.md
 ├── architecture/
-│ └── architecture.png
+| └── Confluence arch.png
+│ └── s3 arch.png
 ├── screenshots/
-│ └── bot-ui.png
+│ └── issue-resolution.png
 │ └── order-tracking.png
-├── lambda/
-│ └── sample-lambda.py
-└── docs/
-└── project-report.pdf
+├── lambda.py
 
 ---
 
