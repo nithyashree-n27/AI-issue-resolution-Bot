@@ -78,21 +78,6 @@ lambda.txt      — core Lambda logic
 
 ---
 
-## 📁 Project Structure
-
-AI-issue-resolution-Bot/
-│
-├── README.md
-├── architecture/
-| └── Confluence arch.png
-│ └── s3 arch.png
-├── screenshots/
-│ └── issue-resolution.png
-│ └── order-tracking.png
-├── lambda.py
-
----
-
 ##  Sample Lambda Code (for demonstration)
 
 ```python
