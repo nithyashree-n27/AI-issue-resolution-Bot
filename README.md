@@ -124,30 +124,3 @@ def lambda_handler(event, context):
     }
 )
 ```
-
-
-Results & Impact
-
- Significantly reduced issue response time
-
- Automated solutions for repeated problems
-
- Reduced manual workload of support teams
-
- Improved accuracy & consistency in responses
-
- Easy accessibility through MS Teams
-
-
-My Contribution
-
-Designed AWS architecture for the bot
-
-Connected AWS Q with Confluence knowledge pages
-
-Built Lambda logic for issue resolution & order lookup
-
-Integrated bot with MS Teams using API Gateway
-
-Created flow diagrams, workflows, and testing reports
-
